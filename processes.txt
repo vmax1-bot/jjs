@@ -1,0 +1,35 @@
+etschrome.exe
+lockdownbrowseroem.exe
+lockdownbrowser.exe
+javaw.exe
+proproctor.exe
+questionmark secure for windows desktop.exe
+SafeExamBrowser.Client.exe
+SafeExamBrowser.Server.exe
+psi-bastion.exe
+psi-keygrab.exe
+proctor360.exe
+Duolingo English Test.exe
+det-helper-x64.exe
+duolingo_english_test_helper.exe
+Gaurdian Browser.exe
+rcedit.exe
+rcedit-x64.exe
+cpbrowser.exe
+vtoolexe.exe
+wba.exe
+UASTSManager.exe
+wkswinproc.exe
+notepad.exe
+Notepad.exe
+iceworm.exe
+fortknox.exe
+inspera-launcher.exe
+smart-browser-installer.exe
+squirrel.exe
+HackerRank.exe
+notepad.exe
+kbdins.exe
+Notepad.exe
+CodeTantra SEA.exe
+elder-wand.exe

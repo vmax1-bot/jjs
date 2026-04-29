@@ -1,0 +1,5 @@
+{
+    "load": "AffinityKillerDLL.dll",
+    "target": "javaw.exe",
+    "timer": 1
+} 
